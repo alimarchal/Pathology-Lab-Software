@@ -1,4 +1,5 @@
 # Pathology Lab Software
+# Make it In Pakistan / Kashmir
 
 Pathology Lab Software is a comprehensive, open-source solution designed to streamline the operations of pathology laboratories. This software is crafted with the needs of laboratories in mind, providing tools for efficient management of patient records, test results, billing, and reporting. Developed in the vibrant region of Pakistan/Kashmir, this project embodies the spirit of local innovation and expertise.
 
@@ -23,7 +24,7 @@ We believe in the power of community-driven development. Contributions are welco
 
 ## Get Started
 
-To get started with Pathology Lab Software, please visit our [GitHub repository](https://github.com/YourRepoName/PathologyLabSoftware) for installation instructions, documentation, and support. Join us in revolutionizing the pathology lab industry with innovative technology made in Pakistan/Kashmir.
+To get started with Pathology Lab Software, please visit our [GitHub repository](https://github.com/alimarchal/Pathology-Lab-Software) for installation instructions, documentation, and support. Join us in revolutionizing the pathology lab industry with innovative technology made in Pakistan/Kashmir.
 
 ## License
 
@@ -31,5 +32,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your-email@example.com](mailto:contact@seechangeinnovative.com).
+For any inquiries or feedback, please contact us at [contact@seechangeinnovative.com](mailto:contact@seechangeinnovative.com).
 
