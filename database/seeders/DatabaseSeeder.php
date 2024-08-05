@@ -24,6 +24,8 @@ class DatabaseSeeder extends Seeder
         $this->call([
             DepartmentSeeder::class,
             CategorySeeder::class,
+            UnitSeeder::class,
+            TestSeeder::class,
         ]);
 //        DB::statement('UPDATE courses SET branch_id= 1');
 //        DB::statement('UPDATE institute_classes SET branch_id= 1');
