@@ -75,7 +75,6 @@ class UnitSeeder extends Seeder
             ['name' => 'RDW', 'description' => 'red cell distribution width'],
             ['name' => '10^12/L', 'description' => 'trillion cells per liter'],
             ['name' => 'pH', 'description' => 'hydrogen ion concentration'],
-            // Additional Units
             ['name' => 'pg', 'description' => 'picograms'],
             ['name' => 'mg', 'description' => 'milligrams'],
             ['name' => 'µg', 'description' => 'micrograms'],
@@ -86,6 +85,29 @@ class UnitSeeder extends Seeder
             ['name' => 'IU/dL', 'description' => 'international units per deciliter'],
             ['name' => 'ng/dL', 'description' => 'nanograms per deciliter'],
             ['name' => 'mU/g Hb', 'description' => 'milliunits per gram hemoglobin'],
+            // Additional missing units for complete medical testing coverage
+            ['name' => 'mmHg', 'description' => 'millimeters of mercury'],
+            ['name' => 'bpm', 'description' => 'beats per minute'],
+            ['name' => '°C', 'description' => 'degrees Celsius'],
+            ['name' => 's', 'description' => 'seconds'],
+            ['name' => 'CFU/mL', 'description' => 'colony forming units per milliliter'],
+            ['name' => 'mOsm/kg', 'description' => 'milliosmoles per kilogram'],
+            ['name' => 'g/cm²', 'description' => 'grams per square centimeter'],
+            ['name' => 'L/min', 'description' => 'liters per minute'],
+            ['name' => 'copies/mL', 'description' => 'copies per milliliter'],
+            ['name' => 'D', 'description' => 'diopters'],
+            ['name' => 'AU/mL', 'description' => 'arbitrary units per milliliter'],
+            ['name' => 'INR', 'description' => 'international normalized ratio'],
+            ['name' => 'kPa', 'description' => 'kilopascals'],
+            ['name' => 'mV', 'description' => 'millivolts'],
+            ['name' => 'titer', 'description' => 'dilution ratio'],
+            ['name' => 'L/s', 'description' => 'liters per second'],
+            ['name' => 'cmH2O', 'description' => 'centimeters of water'],
+            ['name' => 'µV', 'description' => 'microvolts'],
+            ['name' => 'ms', 'description' => 'milliseconds'],
+            ['name' => 'Bq', 'description' => 'becquerels'],
+            ['name' => 'counts/min', 'description' => 'counts per minute'],
+            ['name' => 'min', 'description' => 'minutes'],
         ];
 
 
